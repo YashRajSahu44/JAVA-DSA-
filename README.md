@@ -1,2 +1,2 @@
-# JAVA-DSA-
+# Java - Dsa
 Notes of dsa
