@@ -1,2 +1,3 @@
-# Java - Dsa
-Notes of dsa
+# Java 
+
+This repo consists of Dsa notes , codes and questions from lc 
